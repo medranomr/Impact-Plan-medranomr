@@ -36,6 +36,8 @@ Students will participate in various online discussions through the canvas platf
 Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade these group discussions:
 | Objective  | Met | Not Met |
 | ------------- | ------------- | ------------- |
+| Resource  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
