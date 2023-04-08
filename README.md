@@ -17,7 +17,9 @@ Grades 9-11
 <!Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/>
 
 Students will understand human, cultural, and societal issues related to technology. 
+
 Students will be knowledgeable about legal and ethical behavior related to their use of technology and information.
+
 Students will predict the possible effects of their use and creation of technology.
 
 
