@@ -28,22 +28,12 @@ Students will predict the possible effects of their use and creation of technolo
 <!Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?>
 
 Students will participate in various online discussions through the canvas platform. Each discussion topic will address different human, cultural, and societal issues related to technology. They will be provided with prompts based on videos or readings assigned throughout each unit. They will also be asked to read and respond to their classmates' contributions. Below are some sample assignments:
-<d1>
-      <dd>
--Students will watch the video AI, Ain't I A Woman? and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
-  </dd>
-</d1>
+<d1><dd><d1><dd>Students will watch the video AI, Ain't I A Woman? and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.</dd></d1></d1></dd>
 
 Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade these group discussions:
 
-<!### Assessment
-
-Describe how you plan to assess the learning objectives described above.
-Students will be provided with opportunities to understand human, cultural, and societal issues related to technology.
-
-
-Students will be provided wth opportunities to learn about and practice legal and ethical behavior related to their use of technology and information.>
-
+<!Assessment>
+<!Describe how you plan to assess the learning objectives described above.>
 ### Outcomes
 
 <!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
