@@ -29,8 +29,8 @@ Students will predict the possible effects of their use and creation of technolo
 
 Students will participate in various online discussions through the canvas platform. Each discussion topic will address different human, cultural, and societal issues related to technology. They will be provided with prompts based on videos or readings assigned throughout each unit. They will also be asked to read and respond to their classmates' contributions. Below are some sample assignments:
 
-      Students will watch the video AI, Ain't I A Woman? and respond with their thoughts on AI identifying gender. This will lead into discussion on machine
-      learning and the importance of the data it is based on.
+  Students will watch the video AI, Ain't I A Woman? and respond with their thoughts on AI identifying gender. This will lead into discussion on machine
+  learning and the importance of the data it is based on.
 
 Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade these group discussions:
 
