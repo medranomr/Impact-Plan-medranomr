@@ -33,16 +33,22 @@ Students will participate in various online discussions through the canvas platf
     *
     *
 
-Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade these group discussions:
+Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade each student during these group discussions:
 | Objective  | Met | Not Met |
 | ------------- | ------------- | ------------- |
-| Resource  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Notes for Resource #1  |   |   |
+| Notes for Resource #2  |   |   |
+| 2 Minute Summary  |   |   |
+| Group Discussion  |   |   |
+| Class Presentation |  |  |
 
 <!Assessment>
 <!Describe how you plan to assess the learning objectives described above.>
 ### Outcomes
 
 <!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
+
+This plan will facilitate diversity in computing by  
+This plan will facilitate equity and inclusion by providing students with some examples of inequities in computing as well as current steps being taken to address them and provide greater inclusion. Further, students will be asked to consider inequities they may see and how they could be corrected. Finally, students will be asked to consider the impacts and accessibility of their own work.
+This plan will help broaden participation in computing
+This plan will help long-term goals in addressing computing impacts on society by helping students to consider their own roles as creators and the effects of their work on the world around them. To consider how can their work be used with good or malicious intent. To reflect on how they can make their work inclusive and how their work can improve equity. 
