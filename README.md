@@ -39,8 +39,6 @@ Students will also participate in group discussions during class to share out th
 
 Finally, students will participate in a summative discussion. A series of debates on topics discussed throughout the year. Pairs of students will be provided with a prompt, they will gather evidence about the prompt, and decide amongst themselves who will argue in favor of the prompt and who will argue against it. First, students will prepare and recite their initial speeches. They will then have a few days to prepare their rebuttals. They will present their rebuttals and once again have a few days to prepare their closing statements. Finally, they will present their closing statements and answer audience questions.
 
-https://ouhsd.instructure.com/courses/62097/pages/debate-specifics?module_item_id=1789365
-
 ### Assessment
 <!Describe how you plan to assess the learning objectives described above.>
 
