@@ -35,7 +35,11 @@ Students will participate in various online discussions through the canvas platf
 
   - Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
 
-Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. 
+Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class.
+
+Finally, students will participate in a summative discussion. A series of debates on topics discussed throughout the year. Pairs of students will be provided with a prompt, they will gather evidence about the prompt, and decide amongst themselves who will argue in favor of the prompt and who will argue against it. First, students will prepare and recite their initial speeches. They will then have a few days to prepare their rebuttals. They will present their rebuttals and once again have a few days to prepare their closing statements. Finally, they will present their closing statements and answer audience questions.
+
+https://ouhsd.instructure.com/courses/62097/pages/debate-specifics?module_item_id=1789365
 
 ### Assessment
 <!Describe how you plan to assess the learning objectives described above.>
@@ -51,11 +55,27 @@ For group discussions and class presentations, students will be individually ass
 | Group Discussion  |   |   |
 | Class Presentation |  |  |
 
+For the summative discussions, students will be assessed on the following:
+| Objective | 4 | 3 | 2 | 1 | 0 |
+| Reference Page |
+| Coherence of Arguments |
+| Delivery |
+| Use of Evidence |
+| Rebuttal |
+| Key Points |
+| Handout |
+
 ### Outcomes
 
 <!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
 
 This plan will facilitate diversity in computing by  
+
+
 This plan will facilitate equity and inclusion by providing students with some examples of inequities in computing as well as current steps being taken to address them and provide greater inclusion. Further, students will be asked to consider inequities they may see and how they could be corrected. Finally, students will be asked to consider the impacts and accessibility of their own work.
+
+
 This plan will help broaden participation in computing
+
+
 This plan will help long-term goals in addressing computing impacts on society by helping students to consider their own roles as creators and the effects of their work on the world around them. To consider how can their work be used with good or malicious intent. To reflect on how they can make their work inclusive and how their work can improve equity. 
