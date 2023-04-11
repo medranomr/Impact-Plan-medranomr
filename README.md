@@ -53,7 +53,8 @@ For group discussions and class presentations, students will be individually ass
 | Group Discussion  |   |   |
 | Class Presentation |  |  |
 
-For the summative discussions, students will be assessed on the following:
+For the summative discussions, students will be assessed by the teacher and their peers using the following rubric:
+https://www.nps.gov/teachers/classrooms/upload/scoring-sheet.pdf
 
 | Objective | 4 | 3 | 2 | 1 | 0 |
 |-----------|---|---|---|---|---|
