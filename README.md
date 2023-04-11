@@ -57,13 +57,14 @@ For the summative discussions, students will be assessed on the following:
 
 | Objective | 4 | 3 | 2 | 1 | 0 |
 |-----------|---|---|---|---|---|
-| Reference Page |
-| Coherence of Arguments |
+| Initial Argument |
+| Rebuttal |
+| Closing Argument |
 | Delivery |
 | Use of Evidence |
-| Rebuttal |
 | Key Points |
 | Handout |
+| Reference Page |
 
 ### Outcomes
 
