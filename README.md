@@ -54,7 +54,9 @@ For group discussions and class presentations, students will be individually ass
 | Class Presentation |  |  |
 
 For the summative discussions, students will be assessed on the following:
+
 | Objective | 4 | 3 | 2 | 1 | 0 |
+|-----------|---|---|---|---|---|
 | Reference Page |
 | Coherence of Arguments |
 | Delivery |
