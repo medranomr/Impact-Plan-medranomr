@@ -34,10 +34,15 @@ Students will participate in various online discussions through the canvas platf
    - Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
 
   - Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
-  
-Students will be assessed based on their participation and use of evidence to support their arguments.
 
-Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. They will be assessed on their their presentation to the class. The following rubric will be used to grade each student during these group discussions:
+Students will also participate in group discussions during class to share out their findings and conclusions based on their readings. Each person will complete their choice of readings and take notes. For the discussion, each person in the group will be given two minutes to share their initial thoughts from their chosen readings. After initial thoughts are shared students will discuss the prompts they were given and decide what they want to share out to the class. 
+
+### Assessment
+<!Describe how you plan to assess the learning objectives described above.>
+
+For online discussions, students will be assessed based on their participation and use of evidence to support their arguments.
+
+For group discussions and class presentations, students will be individually assessed using the following rubric:
 | Objective  | Met | Not Met |
 | ------------- | ------------- | ------------- |
 | Notes for Resource #1  |   |   |
@@ -46,8 +51,6 @@ Students will also participate in group discussions during class to share out th
 | Group Discussion  |   |   |
 | Class Presentation |  |  |
 
-<!Assessment>
-<!Describe how you plan to assess the learning objectives described above.>
 ### Outcomes
 
 <!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
