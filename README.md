@@ -29,11 +29,11 @@ Students will predict the possible effects of their use and creation of technolo
 
 Students will participate in various online discussions through the canvas platform. Each discussion topic will address different human, cultural, and societal issues related to technology. They will be provided with prompts based on videos or readings assigned throughout each unit. They will also be asked to read and respond to their classmates' contributions. Below are some sample assignments:
     
-    *Students will read Chapter 1 of *Blown to Bits* by Hal Abelson, Ken Ledeen, and Harry Lewis and respond to the prompt: Argue if you agree that it is a "truth" and it will always be a "truth".
+   - Students will read Chapter 1 of *Blown to Bits* by Hal Abelson, Ken Ledeen, and Harry Lewis and respond to the prompt: Argue if you agree that it is a "truth" and it will always be a "truth".
 
-   *Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
+   - Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
 
-  *Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
+  - Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
   
 Students will be assessed based on their participation and use of evidence to support their arguments.
 
