@@ -31,7 +31,6 @@ Students will participate in various online discussions through the canvas platf
     
     *Students will read Chapter 1 of *Blown to Bits* by Hal Abelson, Ken Ledeen, and Harry Lewis and respond to the prompt: Argue if you agree that it is a "truth" and it will always be a "truth".
 
-
    *Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
 
   *Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
