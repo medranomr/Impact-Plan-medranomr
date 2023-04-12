@@ -54,21 +54,7 @@ For group discussions and class presentations, students will be individually ass
 | Class Presentation |  |  |
 
 For the summative discussions, students will be assessed by the teacher and their peers using the following rubric:
-https://www.nps.gov/teachers/classrooms/upload/scoring-sheet.pdf
-https://web.stanford.edu/class/cs326/classroom_debate_rubric.pdf
-https://fye.uconn.edu/wp-content/uploads/sites/435/2022/01/DEBATE-GRADING-RUBRIC-1.pdf
-
-
-| Objective | 4 | 3 | 2 | 1 | 0 |
-|-----------|---|---|---|---|---|
-| Initial Argument |
-| Rebuttal |
-| Closing Argument |
-| Delivery |
-| Use of Evidence |
-| Key Points |
-| Handout |
-| Reference Page |
+https://docs.google.com/document/d/1POuDWdv_Z3iilTm5Qzx0sKbnrg1Hcf5FWyeVMOak7o0/edit?usp=sharing
 
 ### Outcomes
 
