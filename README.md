@@ -59,16 +59,10 @@ For the summative discussions, students will be assessed by the teacher and thei
 https://docs.google.com/document/d/1POuDWdv_Z3iilTm5Qzx0sKbnrg1Hcf5FWyeVMOak7o0/edit?usp=sharing
 
 ### Outcomes
-
 <!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
-
-This plan will facilitate diversity in computing by including readings and videos of participation data in computer science. Students will be asked to consider barriers to entry to that world and how they can participate in that world.  
-
 
 This plan will facilitate equity and inclusion by providing students with some examples of inequities in computing as well as current steps being taken to address them and provide greater inclusion. Further, students will be asked to consider inequities they may see and how they could be corrected. Finally, students will be asked to consider the impacts and accessibility of their own work.
 
-
-This plan will help broaden participation in computing
-
+This plan will help broaden participation in computing by including readings and videos of participation data in computer science. Students will be asked to consider barriers to entry to that world and how they can participate in that world. This in turn will facilate diversity in computing given the demographics of the school.
 
 This plan will help long-term goals in addressing computing impacts on society by helping students to consider their own roles as creators and the effects of their work on the world around them. To consider how can their work be used with good or malicious intent. To reflect on how they can make their work inclusive and how their work can improve equity. 
